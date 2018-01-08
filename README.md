@@ -3,4 +3,4 @@
 
 Aulas de Arduino de nível básico.
 
-Livre para prática e reprodução desde que citada a fonte.
+Ao reproduzir, leia a licença.
